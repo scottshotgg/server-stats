@@ -1,0 +1,11 @@
+{
+  "name": "server-stats",
+  "version": "1.0.0",
+  "description": "Statistics for your server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "scottshotgg",
+  "license": "ISC"
+}
